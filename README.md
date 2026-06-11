@@ -1,9 +1,9 @@
-# ⚡ TextForge — AI Text Transformer
+# ⚡ AI Text Transformer
 
 A beginner-friendly React.js application that transforms your text using Google's **Gemini AI**.  
 Built as a portfolio project to demonstrate React fundamentals, API integration, and responsive UI design.
 
-![TextForge Preview](https://via.placeholder.com/800x400/7c3aed/ffffff?text=TextForge+AI+Text+Transformer)
+![AI-Text-Transformer Preview](https://via.placeholder.com/800x400/7c3aed/ffffff?text=AI+Text+Transformer)
 
 ---
 
@@ -103,7 +103,7 @@ Open your browser at **http://localhost:5173** 🎉
 ```bash
 git init
 git add .
-git commit -m "Initial commit: TextForge AI Text Transformer"
+git commit -m "Initial commit: AI Text Transformer"
 git remote add origin https://github.com/YOUR_USERNAME/ai-text-transformer.git
 git push -u origin main
 ```

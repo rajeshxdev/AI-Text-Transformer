@@ -110,7 +110,7 @@ function App() {
         <div className="header-content">
           <div className="logo">
             <span className="logo-icon">⚡</span>
-            <span className="logo-text">TextForge</span>
+            <span className="logo-text">AI-Text-Transformer</span>
           </div>
           <p className="tagline">Transform any text with AI — instantly</p>
         </div>

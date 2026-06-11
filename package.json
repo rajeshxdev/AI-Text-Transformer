@@ -1,7 +1,7 @@
 {
   "name": "ai-text-transformer",
   "version": "1.0.0",
-  "description": "TextForge — AI Text Transformer powered by Gemini API",
+  "description": "AI Text Transformer powered by Gemini API",
   "private": true,
   "type": "module",
   "scripts": {
