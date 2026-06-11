@@ -57,7 +57,7 @@ VITE_GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 
 Add your Vercel deployment link here.
 
-https://your-project.vercel.app
+https://ai-text-transformer-omega.vercel.app/
 
 🎯 Learning Outcomes
 
